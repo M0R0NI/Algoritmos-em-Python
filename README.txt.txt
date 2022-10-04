@@ -1,3 +1,4 @@
+
 Senhores(as), boa tarde!
 
 O objetivo dessa pasta é salvar os algoritmos que eu desenvolvo em Python para servirem de estudos posteriormente e também para que eu vizualize minha evolução, 
