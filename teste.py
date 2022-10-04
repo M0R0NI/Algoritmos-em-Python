@@ -1,4 +1,0 @@
-# TESTE
-
-print("Hello, Github!")
-
