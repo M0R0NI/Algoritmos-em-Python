@@ -14,7 +14,6 @@ while valor >= 0:
 
     if valor <= -1:
         print(f"\nO menor valor informado pelo usuário é: {valor}")
-        print(q)
 
 
 
